@@ -1,4 +1,4 @@
-# sorteio-implantacao
+# sorteio-nomes
 sorteios em python a partir de uma lista de nomes. finalidade "didático-recreativa" 😆.
 
 ## Funcionalidades
@@ -27,7 +27,7 @@ cd sorteio-nomes
 
 3. Execute o programa com Python
 ```shell
-python sorteio-livros-implantacao.py
+python sorteio-nomes.py
 ```
 
 ## Contribuição
@@ -51,7 +51,7 @@ O programa foi implementado em Python e utiliza a biblioteca padrão do Python p
 
 ### Arquivo `sorteio.py`
 
-O arquivo `sorteio-livros-implantacao.py` contém o código-fonte principal do programa. Ele solicita ao usuário que digite os nomes das pessoas, atualiza a lista de nomes, exibe a probabilidade de cada pessoa ganhar em cada sorteio e realiza o sorteio dos ganhadores.
+O arquivo `sorteio-nomes.py` contém o código-fonte principal do programa. Ele solicita ao usuário que digite os nomes das pessoas, atualiza a lista de nomes, exibe a probabilidade de cada pessoa ganhar em cada sorteio e realiza o sorteio dos ganhadores.
 
 ---
 
