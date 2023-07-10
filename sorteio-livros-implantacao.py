@@ -54,7 +54,7 @@ while True:
         limpa_tela()
         print("Lista de nomes atualizada:", lista_pessoas,"\n\n")  # Exibe a lista
         chance_sorteio_1, chance_sorteio_2 = calcular_probabilidade(lista_pessoas)
-        print(f"Cada uma das {len(lista_pessoas)} pessoa(s) participante(s) tem {chance_sorteio_1:.2f}% de chance de levar um livro para casa no primeiro sorteio e {chance_sorteio_2:.2f}% no segundo sorteio.\n\n")
+        print(f"Cada uma das {len(lista_pessoas)} pessoa(s) participante(s) tem {chance_sorteio_1:.2f}% de chance de levar um prêmio para casa no primeiro sorteio e {chance_sorteio_2:.2f}% no segundo sorteio.\n\n")
 
 # Limpa a tela
 limpa_tela()
