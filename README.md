@@ -17,12 +17,12 @@ sorteios em python a partir de uma lista de nomes. finalidade "didático-recreat
 1. Clone o repositório para o seu computador:
 
 ```shell
-git clone https://github.com/helbertm/sorteio-implantacao.git
+git clone https://github.com/helbertm/sorteio-nomes.git
 ```
 
 2. Navegue até o diretório do projeto
 ```shell
-cd sorteio-implantacao
+cd sorteio-nomes
 ```
 
 3. Execute o programa com Python
